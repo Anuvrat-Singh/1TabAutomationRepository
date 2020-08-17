@@ -1,0 +1,262 @@
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 12:55:28 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 12:55:29 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/24/2020 12:55:29 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/24/2020 12:58:02 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/24/2020 12:58:12 AM - SeleniumDriver - INFO: Element not found with locator: //*[text() ='Provide valid Credentials'] and locator type xpath
+06/24/2020 12:58:12 AM - SeleniumDriver - INFO: Element not found
+06/24/2020 01:02:25 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 01:02:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 01:03:27 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 01:03:32 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 01:04:22 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 01:04:22 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 01:07:12 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/24/2020 01:07:12 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/24/2020 01:08:45 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 01:08:45 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 01:08:45 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 01:08:46 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 01:08:46 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 01:08:46 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 01:08:46 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/24/2020 01:08:46 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/24/2020 01:10:54 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 01:10:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 01:11:01 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 01:11:01 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 01:11:14 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 01:11:14 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 01:19:18 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/24/2020 01:19:25 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/24/2020 01:19:40 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/24/2020 01:19:40 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/24/2020 01:19:55 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/24/2020 01:19:55 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/24/2020 01:21:11 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/24/2020 01:21:11 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/24/2020 01:22:17 AM - SeleniumDriver - INFO: Element not found with locator: //*[text() ='Provide valid Credentials'] and locator type xpath
+06/24/2020 01:22:17 AM - SeleniumDriver - INFO: Element not found
+06/28/2020 04:33:32 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 04:33:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 04:33:33 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 04:33:34 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 04:33:34 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 04:33:34 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 04:33:34 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 04:33:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 04:33:35 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 04:33:35 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 04:33:35 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 04:33:35 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 04:33:35 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: User Login Verification Failed
+06/28/2020 04:33:35 AM - TestStatus - INFO: Screenshot save to directory: /home/deadpool/PycharmProjects/1TabAutomationRepository/base/../screenShots/User Login Verification Failed.1593299015138.png
+06/28/2020 04:33:35 AM - TestStatus - ERROR: testValidLogin <--- TEST FAILED!!!
+06/28/2020 04:36:53 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 04:36:54 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 04:36:55 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 04:36:55 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 04:36:55 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 04:37:00 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 04:38:57 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 04:40:24 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: User Login Verification Failed
+06/28/2020 04:40:26 AM - TestStatus - INFO: Screenshot save to directory: /home/deadpool/PycharmProjects/1TabAutomationRepository/base/../screenShots/User Login Verification Failed.1593299426249.png
+06/28/2020 04:40:29 AM - TestStatus - ERROR: testValidLogin <--- TEST FAILED!!!
+06/28/2020 04:46:34 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 04:46:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 04:46:34 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 04:46:35 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 04:46:35 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 04:46:35 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 04:46:35 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 04:46:36 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 04:46:36 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 04:46:36 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 04:46:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 04:47:35 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 04:47:41 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: User Login Verification Failed
+06/28/2020 04:47:41 AM - TestStatus - INFO: Screenshot save to directory: /home/deadpool/PycharmProjects/1TabAutomationRepository/base/../screenShots/User Login Verification Failed.1593299861756.png
+06/28/2020 04:47:41 AM - TestStatus - ERROR: testValidLogin <--- TEST FAILED!!!
+06/28/2020 04:49:40 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 04:49:40 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 04:49:40 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 04:49:41 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 04:49:41 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 04:49:41 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 04:49:41 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 04:49:41 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 04:49:43 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 04:49:43 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 04:49:47 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 04:49:49 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 04:50:09 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: User Login Verification Failed
+06/28/2020 04:50:09 AM - TestStatus - INFO: Screenshot save to directory: /home/deadpool/PycharmProjects/1TabAutomationRepository/base/../screenShots/User Login Verification Failed.1593300009141.png
+06/28/2020 04:50:09 AM - TestStatus - ERROR: testValidLogin <--- TEST FAILED!!!
+06/28/2020 04:50:51 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 04:50:52 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 04:50:53 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 04:50:53 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 04:51:02 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 04:59:21 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 05:01:02 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: User Login Verification Failed
+06/28/2020 05:01:02 AM - TestStatus - INFO: Screenshot save to directory: /home/deadpool/PycharmProjects/1TabAutomationRepository/base/../screenShots/User Login Verification Failed.1593300662132.png
+06/28/2020 05:01:02 AM - TestStatus - ERROR: testValidLogin <--- TEST FAILED!!!
+06/28/2020 05:04:04 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 05:04:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 05:04:04 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 05:04:05 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 05:04:05 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 05:04:05 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 05:04:05 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 05:04:05 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 05:04:06 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 05:04:06 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 05:04:15 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 05:06:21 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 05:06:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 05:06:23 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 05:06:23 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 05:06:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 05:36:56 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 05:36:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 05:36:56 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 05:36:57 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 05:36:57 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 05:36:57 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 05:36:57 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 05:36:57 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 05:36:58 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 05:36:58 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 05:37:03 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 05:37:08 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 05:37:37 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 05:37:38 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 05:37:39 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 05:37:39 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 05:37:39 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 05:37:43 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 05:58:04 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 05:58:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 05:58:04 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 05:58:05 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 05:58:05 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 05:58:05 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 05:58:05 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 05:58:05 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 05:58:06 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 05:58:06 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 05:58:32 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:01:34 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:01:35 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:01:35 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:01:44 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 06:03:47 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 06:07:29 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:07:30 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:07:31 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:07:31 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:07:31 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:08:56 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:08:56 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:08:56 AM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:08:57 AM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:08:57 AM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:08:57 AM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:08:57 AM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:08:59 AM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:08:59 AM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:08:59 AM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:09:21 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 06:11:11 AM - SeleniumDriver - ERROR: Failed to get page title
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:27:19 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:27:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:27:20 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:27:20 PM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:27:31 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:31:28 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:31:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:31:29 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:31:29 PM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:32:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 06:37:44 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Element found with locator: user_input and locator type id
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Element found with locator: password and locator type id
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 06:37:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 06:37:47 PM - SeleniumDriver - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 06:37:47 PM - SeleniumDriver - INFO: Element Found
+06/28/2020 06:37:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 07:16:34 PM - homePage - INFO: Element found with locator: //*[text()='Login '] and locator type xpath
+06/28/2020 07:16:35 PM - homePage - INFO: Clicked on element with locator: //*[text()='Login '] and locatorType: xpath
+06/28/2020 07:16:35 PM - homePage - INFO: Element found with locator: user_input and locator type id
+06/28/2020 07:16:35 PM - homePage - INFO: Sent data to element with locator: user_input and locatorType: id
+06/28/2020 07:16:35 PM - homePage - INFO: Element found with locator: password and locator type id
+06/28/2020 07:16:35 PM - homePage - INFO: Sent data to element with locator: password and locatorType: id
+06/28/2020 07:16:35 PM - homePage - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locator type xpath
+06/28/2020 07:16:35 PM - homePage - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and locatorType: xpath
+06/28/2020 07:16:37 PM - homePage - INFO: Element found with locator: //*[text()='My Account'] and locator type xpath
+06/28/2020 07:16:37 PM - homePage - INFO: Element Found
+06/28/2020 07:16:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Not Logged In
+06/28/2020 07:17:24 PM - Util - INFO: Actual Text From Application Web UI --> :: India's One Of Most Trusted Online Pharmacies | 24x7 Medicine Delivery | Lab Tests | Doctor Consultation
+06/28/2020 07:17:35 PM - Util - INFO: Expected Text From Application Web UI --> :: India's One Of Most Trusted
+06/28/2020 07:17:47 PM - Util - INFO: ### VERIFICATION SUCCESSFUL !!!

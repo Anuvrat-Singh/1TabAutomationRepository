@@ -1,0 +1,56 @@
+07/04/2020 03:25:39 PM - homePage - INFO: Element found with locator: //*[text()='Login '] and  locatorType: xpath
+07/04/2020 03:25:40 PM - homePage - INFO: Clicked on element with locator: //*[text()='Login '] locatorType: xpath
+07/04/2020 03:25:40 PM - homePage - INFO: Element found with locator: user_input and  locatorType: id
+07/04/2020 03:25:40 PM - homePage - INFO: Sent data on element with locator: user_input locatorType: id
+07/04/2020 03:25:40 PM - homePage - INFO: Element found with locator: password and  locatorType: id
+07/04/2020 03:25:40 PM - homePage - INFO: Sent data on element with locator: password locatorType: id
+07/04/2020 03:25:40 PM - homePage - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and  locatorType: xpath
+07/04/2020 03:25:40 PM - homePage - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] locatorType: xpath
+07/04/2020 03:25:41 PM - homePage - INFO: Element found with locator: //*[text() ='Provide valid Credentials'] and  locatorType: xpath
+07/04/2020 03:25:41 PM - homePage - INFO: Element present with locator: //*[text() ='Provide valid Credentials'] locatorType: xpath
+07/04/2020 03:25:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login is Successful
+07/04/2020 03:25:41 PM - TestStatus - INFO: testInvalidLogin <--- TEST SUCCESSFUL...
+07/04/2020 03:25:41 PM - homePage - INFO: Element found with locator: //*[text()='Login '] and  locatorType: xpath
+07/04/2020 03:25:42 PM - homePage - INFO: Cannot click on the element with locator: //*[text()='Login '] locatorType: xpath
+07/04/2020 03:25:42 PM - homePage - INFO: Element found with locator: user_input and  locatorType: id
+07/04/2020 03:25:43 PM - homePage - INFO: Sent data on element with locator: user_input locatorType: id
+07/04/2020 03:25:43 PM - homePage - INFO: Element found with locator: password and  locatorType: id
+07/04/2020 03:25:43 PM - homePage - INFO: Sent data on element with locator: password locatorType: id
+07/04/2020 03:25:43 PM - homePage - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and  locatorType: xpath
+07/04/2020 03:25:43 PM - homePage - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] locatorType: xpath
+07/04/2020 03:25:43 PM - Util - INFO: Actual Text From Application Web UI --> :: India's One Of Most Trusted Online Pharmacies | 24x7 Medicine Delivery | Lab Tests | Doctor Consultation
+07/04/2020 03:25:43 PM - Util - INFO: Expected Text From Application Web UI --> :: India's One Of Most Trusted
+07/04/2020 03:25:43 PM - Util - INFO: ### VERIFICATION SUCCESSFUL !!!
+07/04/2020 03:25:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification Failed!!!
+07/04/2020 03:25:43 PM - homePage - INFO: Element found with locator: //*[text()='My Account'] and  locatorType: xpath
+07/04/2020 03:25:43 PM - homePage - INFO: Element present with locator: //*[text()='My Account'] locatorType: xpath
+07/04/2020 03:25:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Login Verification Failed!!!
+07/04/2020 03:25:43 PM - TestStatus - INFO: testValidLogin <--- TEST SUCCESSFUL...
+07/04/2020 06:12:30 PM - homePage - INFO: Element found with locator: //*[text()='Login '] and  locatorType: xpath
+07/04/2020 06:12:30 PM - homePage - INFO: Clicked on element with locator: //*[text()='Login '] locatorType: xpath
+07/04/2020 06:12:30 PM - homePage - INFO: Element found with locator: user_input and  locatorType: id
+07/04/2020 06:12:31 PM - homePage - INFO: Sent data on element with locator: user_input locatorType: id
+07/04/2020 06:12:31 PM - homePage - INFO: Element found with locator: password and  locatorType: id
+07/04/2020 06:12:31 PM - homePage - INFO: Sent data on element with locator: password locatorType: id
+07/04/2020 06:12:31 PM - homePage - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and  locatorType: xpath
+07/04/2020 06:12:31 PM - homePage - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] locatorType: xpath
+07/04/2020 06:12:32 PM - homePage - INFO: Element found with locator: //*[text() ='Provide valid Credentials'] and  locatorType: xpath
+07/04/2020 06:12:32 PM - homePage - INFO: Element present with locator: //*[text() ='Provide valid Credentials'] locatorType: xpath
+07/04/2020 06:12:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login is Successful
+07/04/2020 06:12:32 PM - TestStatus - INFO: testInvalidLogin <--- TEST SUCCESSFUL...
+07/04/2020 06:12:32 PM - homePage - INFO: Element found with locator: //*[text()='Login '] and  locatorType: xpath
+07/04/2020 06:12:33 PM - homePage - INFO: Cannot click on the element with locator: //*[text()='Login '] locatorType: xpath
+07/04/2020 06:12:33 PM - homePage - INFO: Element found with locator: user_input and  locatorType: id
+07/04/2020 06:12:33 PM - homePage - INFO: Sent data on element with locator: user_input locatorType: id
+07/04/2020 06:12:33 PM - homePage - INFO: Element found with locator: password and  locatorType: id
+07/04/2020 06:12:33 PM - homePage - INFO: Sent data on element with locator: password locatorType: id
+07/04/2020 06:12:33 PM - homePage - INFO: Element found with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] and  locatorType: xpath
+07/04/2020 06:12:33 PM - homePage - INFO: Clicked on element with locator: //button[@class='btn btn-success tab_yellowbtn w-100'] locatorType: xpath
+07/04/2020 06:12:33 PM - Util - INFO: Actual Text From Application Web UI --> :: India's One Of Most Trusted Online Pharmacies | 24x7 Medicine Delivery | Lab Tests | Doctor Consultation
+07/04/2020 06:12:33 PM - Util - INFO: Expected Text From Application Web UI --> :: India's One Of Most Trusted
+07/04/2020 06:12:33 PM - Util - INFO: ### VERIFICATION SUCCESSFUL !!!
+07/04/2020 06:12:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Title Verification Failed!!!
+07/04/2020 06:12:34 PM - homePage - INFO: Element found with locator: //*[text()='My Account'] and  locatorType: xpath
+07/04/2020 06:12:34 PM - homePage - INFO: Element present with locator: //*[text()='My Account'] locatorType: xpath
+07/04/2020 06:12:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: User Login Verification Failed!!!
+07/04/2020 06:12:34 PM - TestStatus - INFO: testValidLogin <--- TEST SUCCESSFUL...
